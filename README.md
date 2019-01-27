@@ -14,7 +14,7 @@ Second way will be via docker (when you don't have java and maven installed):
 
 1 - clone or download this project <br>
 2 - open up a terminal and go to where Dockerfile is placed in.<br>
-3 - Create an image with the following command: docker build Dockerfile -t image-name . <br>
+3 - Create an image with the following command: docker build -f Dockerfile -t image-name . <br>
 4 - Create a container with the following command: docker run -d -p 8088:8088 image-name-step-above <br>
 <br>
 
