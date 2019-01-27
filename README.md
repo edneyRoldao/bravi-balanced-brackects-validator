@@ -1,6 +1,6 @@
-# bravi-balanced-brackects-validator
+# bravi-balanced-brackets-validator
 
-There are two ways to startup this applicarion:
+There are two ways to startup this application:
 
 First way (JDK-8 and Maven 3.3 must be installed on your machine):
 
