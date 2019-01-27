@@ -18,7 +18,7 @@ Second way will be via docker (when you don't have java and maven installed):
 4 - Create a container with the following command: docker run -d -p 8088:8088 image-name-step-above <br>
 <br>
 
-This application is based on a Rest API where you can check its endpoint via swagger. Go to the following link:
+This application is based on a Rest API where you can check its endpoints and documentation via swagger. Go to the following link:
 <br>
 http://localhost:8088/swagger-ui.html
 
