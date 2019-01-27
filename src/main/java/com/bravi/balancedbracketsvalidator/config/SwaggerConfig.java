@@ -26,7 +26,7 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("Balanced Brackets Validator")
+                .title("Balanced BracketsSequence Validator")
                 .description("It is a simple web project used to test a challenge given to Bravi company.")
                 .build();
     }
